@@ -15,3 +15,15 @@ print('L' == 'L', type('L' == 'L'))
 
 print('1',type('1'), int('1'))
 print(1,type(1),'1',type(str(1)))
+
+#exercicio
+
+#String: Nome
+print('Leandro Coelho', type('Leandro Coelho'))
+# Int: Idade
+print(37, type(37))
+#Float: Altura
+print('1.74', type('1.74'))
+
+# É Maior de idade?
+print(37 > 18, type(37>18))
