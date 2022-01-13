@@ -10,3 +10,8 @@ print('Luiz', type('Luiz'))
 print(10, type(10))
 print(29.32, type(29.32))
 print('L' == 'L', type('L' == 'L'))
+
+#Convertendo Tipos
+
+print('1',type('1'), int('1'))
+print(1,type(1),'1',type(str(1)))
